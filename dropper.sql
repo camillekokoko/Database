@@ -1,0 +1,3 @@
+USE test1;
+DROP TABLE tab1;
+DROP DATABASE test1;
