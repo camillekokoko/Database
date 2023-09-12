@@ -33,7 +33,7 @@ This repository houses files and resources related to B-Trees, a Knowledge Graph
 ### SQL Database
 
 - **Description**: Access resources related to SQL Databases, including schemas, scripts, or documentation related to database design and management.
-- **Directory**: [SQL Database](SQL%20Database](https://github.com/camillekokoko/Database/tree/main/SQL)
+- **Directory**: [SQL Database](https://github.com/camillekokoko/Database/tree/main/SQL)
 
 Feel free to explore the content in each section to learn more about B-Trees, Knowledge Graphs, and SQL Databases. Each section contains relevant files and resources related to its respective topic.
 
